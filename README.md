@@ -10,6 +10,7 @@ JavaScript
 
 - Minimal JS with Jasmine: ------> `cd JS/js_jasmine`
 - Simple React App: -------> `cd JS/React_Only`
+- Create React App with Express Backend and dummy API: -------> `cd JS/react_express`
 
 Ruby
 ----
