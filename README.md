@@ -15,4 +15,5 @@ JavaScript
 Ruby
 ----
 
-- Simple Ruby App with Jasmine Testing: -------> `cd Ruby/ruby_rspec`
+- Simple Ruby App with RSpec Testing: -------> `cd Ruby/ruby_rspec`
+- Simple Ruby App with Sinatra, RSpec and Capybara Testing: -------> `cd Ruby/ruby_rspec_sinatra`
