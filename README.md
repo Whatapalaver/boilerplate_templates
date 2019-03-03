@@ -17,3 +17,8 @@ Ruby
 
 - Simple Ruby App with RSpec Testing: -------> `cd Ruby/ruby_rspec`
 - Simple Ruby App with Sinatra, RSpec and Capybara Testing: -------> `cd Ruby/ruby_rspec_sinatra`
+
+CSS / SASS
+----
+
+- A basic SCSS project framework with partials and import. Minimal illustrative css ------> `cd SASS`

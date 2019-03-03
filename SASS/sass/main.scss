@@ -1,0 +1,20 @@
+// Base
+
+@import "base/variables";
+@import "base/mixins";
+
+// Components
+
+@import "components/typography";
+@import "components/grid";
+@import "components/buttons";
+@import "components/navigation";
+@import "components/sections";
+
+
+// make the text more clear, crisp and defined on all browsers.
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
